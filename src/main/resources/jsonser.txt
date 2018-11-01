@@ -1,0 +1,11 @@
+{
+"name": "Kim",
+"surname": "Jon In",
+"phones": ["044-256-78-90", "066-123-45-67"],
+"sites": ["http://dprk.nk", "http://chuche.nk"],
+"address": {
+  "country": "North Korea",
+  "city": "Pyongyang",
+  "street": "Mirae"
+ }
+}
