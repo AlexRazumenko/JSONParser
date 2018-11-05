@@ -3,11 +3,11 @@ package ua.kiev.prog;
 import java.io.Serializable;
 
 public class Person implements Serializable {
-    public String name;
-    public String surname;
-    public String[] phones;
-    public String[] sites;
-    public Address address;
+    private String name;
+    private String surname;
+    private String[] phones;
+    private String[] sites;
+    private Address address;
 
     public Person() {};
 
